@@ -1,5 +1,11 @@
 Me playin with FPGAs & the Linux kernel: MicroBlaze implemented on Arty A7-100 running Linux with driver for memory mapped seven segment display. 🧑‍💻⚡️7️⃣
 
+```
+$ echo 42 > /dev/ssd
+```
+
+![Photo of seven segment display displaying 42](Screen%20Shot%202022-08-21%20at%2023.56.15.png "Photo of seven segment display displaying 42")
+
 Useful resources:
 - https://github.com/Digilent/Arty/blob/master/Resources/Arty_MIG_DDR3/mig.prj
 - https://zipcpu.com/blog/2020/03/08/easyaxil.html
