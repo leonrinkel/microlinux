@@ -1,5 +1,9 @@
 /include/ "system-conf.dtsi"
 / {
+  my_rtl_ssd@10000 {
+    compatible = "rtl_ssd_driver";
+    reg = <0x10000 0xf>;
+  };
 };
 
 &axi_ethernetlite_0 {
