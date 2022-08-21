@@ -14,3 +14,4 @@ Useful resources:
 - https://github.com/Xilinx/linux-xlnx
 - https://elixir.bootlin.com/linux/latest/source
 - https://github.com/leonrinkel/linux-xlnx/tree/xlnx_rebase_v5.15_rtl_ssd
+- https://github.com/neerajkc/weekend_ldd/blob/main/part4/first_platform_driver.c
